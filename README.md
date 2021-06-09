@@ -1,0 +1,3 @@
+log
+
+simple log writing
